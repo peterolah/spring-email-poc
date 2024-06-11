@@ -1,0 +1,2 @@
+email-config:
+    subject: "test email (sent from an integration/unit test)"

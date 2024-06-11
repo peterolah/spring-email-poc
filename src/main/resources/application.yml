@@ -12,3 +12,8 @@ spring:
                     starttls:
                         enable: true
         username: rehabit.munka@gmail.com
+
+email-config:
+    from: "rehabit.munka@gmail.com"
+    to: "rehabit.munka@gmail.com"
+    subject: "árvíztűrő tükörfúrógép - ÁRVÍZTŰRŐ TÜKÖRFÚRÓGÉP"
